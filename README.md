@@ -58,8 +58,8 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 The database seed script creates a new user with some data you can use to get started:
 
-- Email: `rachel@remix.run`
-- Password: `racheliscool`
+- Email: `seb@partino.ch`
+- Password: `sebiscool`
 
 ### Relevant code:
 
