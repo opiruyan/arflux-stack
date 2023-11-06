@@ -119,7 +119,7 @@ const main = async ({ packageManager, rootDirectory }) => {
     "delete-user.ts",
   );
 
-  const REPLACER = "arflux-template";
+  const REPLACER = "arflux-stack";
 
   const DIR_NAME = path.basename(rootDirectory);
   const SUFFIX = getRandomString(2);
